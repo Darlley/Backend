@@ -12,10 +12,15 @@ Resolução de exercícios de cursos online em PHP, Laravel e Livewire. Playlist
 
 - **PHP**
 
+1. [Curso completo de PHP 7](https://github.com/Darlley/php-hcode) - HCode
+1. [Site - PHP, MVC e MySQL](https://github.com/Darlley/php-mvc) - Rafael Capoani
+
 - **Laravel**
 
 1. [Curso de Laravel](https://github.com/Darlley/projeto) - Matheus Battisti
 1. [Laravel4noobs](https://github.com/Darlley/laravel4noobs) - Daniel Reis
+1. [Livro - PHP e Laravel](https://github.com/Darlley/estoque) - Rodrigo Turini
+1. [Laravel para iniciantes](https://github.com/Darlley/devclass) - Alexandre Cardoso
 
 - **Livewire**
 1. [Laravel Livewire](https://github.com/Darlley/laravel-livewire) - Especializa-ti
