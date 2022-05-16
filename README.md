@@ -28,4 +28,4 @@ Resolução de exercícios de cursos online em PHP, Laravel e Livewire. Playlist
 
 ## Certificações
 
-![PHP 7](https://udemy-certificate.s3.amazonaws.com/image/UC-d3457eac-035f-4de8-b308-ed402900f168.jpg?v=1652559269000)
+[![PHP 7](https://udemy-certificate.s3.amazonaws.com/image/UC-d3457eac-035f-4de8-b308-ed402900f168.jpg?v=1652559269000)](https://www.udemy.com/certificate/UC-d3457eac-035f-4de8-b308-ed402900f168/)
