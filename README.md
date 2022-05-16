@@ -25,3 +25,7 @@ Resolução de exercícios de cursos online em PHP, Laravel e Livewire. Playlist
 - **Livewire**
 1. [Laravel Livewire](https://github.com/Darlley/laravel-livewire) - Especializa-ti
 1. [Livewire](https://github.com/Darlley/beer-livewire) - Beer and Code
+
+## Certificações
+
+![PHP 7](https://udemy-certificate.s3.amazonaws.com/image/UC-d3457eac-035f-4de8-b308-ed402900f168.jpg?v=1652559269000)
